@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Set profile picture
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            <a href="../user.md">User</a>
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The <a href="../user.md">user</a> can set his own profile picture so it will be visible for his contacts later on.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The <a href="../user.md">user</a> has to be logged in.
         </td>
     </tr>
     <tr>
@@ -36,20 +36,20 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The <a href="../user.md">user</a> navigates to settings.
                 </li>
                 <li>
-                    Item 2
+                    The <a href="../user.md">user</a> navigates to profile settings.
                 </li>
                 <li>
-                    Item 3
+                    The <a href="../user.md">user</a> selects "change profile picture".
                 </li>
                 <li>
-                    Item 4
+                    The <a href="../user.md">user</a> selects and saves a picture.
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The profile picture has changed to the selected image.
         </td>
     </tr>
     <tr>
@@ -67,10 +67,7 @@
         <td>
             <ul>
                 <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
+                    4. The image file is in an unsupported file format.
                 </li>
             </ul>
         </td>
