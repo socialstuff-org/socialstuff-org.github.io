@@ -41,7 +41,13 @@
                     The <a href="../user.md">user</a> navigates to settings.
                 </li>
                 <li>
+                    The system shows the settings menu.
+                </li>
+                <li>
                     The <a href="../user.md">user</a> navigates to profile settings.
+                </li>
+                <li>
+                    The system shows the profile settings menu.
                 </li>
                 <li>
                     The <a href="../user.md">user</a> selects "change profile picture".
