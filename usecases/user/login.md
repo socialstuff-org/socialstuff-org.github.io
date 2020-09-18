@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Login
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+             <a href="../user.md"> User </a>
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The user logs in to the system
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+             The <a href="../user.md"> User </a> has to be <a href="register.md"> registered </a>
         </td>
     </tr>
     <tr>
@@ -38,16 +38,32 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The <a href="../user.md"> user </a> enters the login page
                 </li>
                 <li>
-                    Item 2
+                    The <a href="../user.md"> user </a> provides his login credentials and the server details
                 </li>
                 <li>
-                    Item 3
+                    The system verifies the login credentials
                 </li>
                 <li>
-                    Item 4
+                    if the credentials are valid:
+                    <ul>
+                        <li>
+                            if credentials are valid
+                            <ul>
+                                the system logs in the user
+                            </ul>
+                        </li>
+                        <li>
+                            else
+                            <ul>
+                                The user notifies that the credentials were invalid
+                            </ul>
+                        </li>
+                        </li>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </td>
@@ -57,7 +73,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The <a href="../user.md"> user </a> is logged in
         </td>
     </tr>
     <tr>
@@ -65,14 +81,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            NA
         </td>
     </tr>      
 </table>
