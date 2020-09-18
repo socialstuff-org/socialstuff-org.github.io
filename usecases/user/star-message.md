@@ -82,8 +82,6 @@
                 <strong>Alternate Flow</strong>
             </td>
             <td>
-            <li>
-            </li>
             </td>      
 </table>
 
