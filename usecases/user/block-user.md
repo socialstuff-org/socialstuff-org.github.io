@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            A user blocks another user to prevent receiving messages of him/ her
+            An actor blocks another user to prevent receiving messages of them
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            User needs to be logged in.
+            The actor needs to be logged in.
         </td>
     </tr>
     <tr>
@@ -41,13 +41,19 @@
                     The actor chooses a user to block
                 </li>
                 <li>
+                    The system navigates to the chat of the selected chat partner
+                </li>
+                <li>
                     The actor chooses to view the profile of the user
+                </li>
+                <li>
+                    The system shows the profile of the selected user
                 </li>
                 <li>
                     The actor chooses to block the user
                 </li>
                 <li>
-                    The system acknowledge this decision
+                    The system acknowledges the decision
                 </li>
             </ol>
         </td>
@@ -57,7 +63,15 @@
             <strong>Result</strong>
         </td>
         <td>
-            The selected user is not able anymore to send messages to the actor
+            The selected user is not able to send messages to the actor anymore
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Exceptions</strong>
+        </td>
+        <td>
+            N/A
         </td>
     </tr>
 </table>

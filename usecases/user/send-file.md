@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            A user selects a file and send it to an other user.
+            An actor selects a file and send it to an other user.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            User needs to be logged in and has a chat partner selected.
+            The actor needs to be logged in and has a chat partner selected.
         </td>
     </tr>
     <tr>
@@ -41,10 +41,13 @@
                     The actor chooses to send a file
                 </li>
                 <li>
+                    The system shows a file explorer
+                </li>
+                <li>
                     The actor selects a file to send
                 </li>
                 <li>
-                    The system sends the file to the server
+                    The system sends the file to the chat partner
                 </li>
             </ol>
         </td>
@@ -56,7 +59,7 @@
             <td>
             2a. The actor chooses multiple files
             <li>
-                The System send the files to the server
+                The System sends the files to the chat partner
             </li>
             </td>
         </tr>
@@ -66,7 +69,15 @@
             <strong>Result</strong>
         </td>
         <td>
-            The file is send to the server
+            The file is send to the chat partner
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Exceptions</strong>
+        </td>
+        <td>
+            N/A
         </td>
     </tr>
 </table>

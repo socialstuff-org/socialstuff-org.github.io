@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            Search user to start a chat
+            Search User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The user search for a user to start a chat.
+            The actor searches for a user to continue a chat with.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            The user is logged in.
+            The actor is logged in.
         </td>
     </tr>
     <tr>
@@ -38,38 +38,33 @@
         <td>
             <ol>
                 <li>
-                    The actor starts to search for a user
+                    The actor enters a username
                 </li>
                 <li>
-                    The actor starts typing in the username
+                    The system displays the matching chat partners.
                 </li>
                 <li>
-                    The system displays the to the typed in username corresponding user.
-                </li>
-                <li>
-                    The actor selects the user to start a chat
+                    The actor selects a user to start a chat
                 </li>
             </ol>
         </td>
     </tr>
     <tr>
-    <tr>
-        <tr>
-            <td>
-                <strong>Result</strong>
-            </td>
-            <td>
-                The user selected a chat partner
-            </td>
-        </tr>
+        <td>
+            <strong>Result</strong>
+        </td>
+        <td>
+            The user selected a chat partner
+        </td>
+    </tr>
     <tr>
         <td>
             <strong>Exceptions</strong>
         </td>
          <td>
-            3a. The system is set to show all usernames
+            3a. The system can not find a chat partner for the typed in username
             <li>
-                The system shows all users witch matches the typed in characters
+                System: "no user found"
             </li>
         </td>
     </tr>      

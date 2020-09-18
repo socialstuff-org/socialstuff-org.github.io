@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            A user records a message and send it to an other user.
+            An actor records a message and sends it to an other user.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            User needs to be logged in and has a chat partner selected.
+            The actor needs to be logged in and has a chat partner selected.
         </td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@
                     The actor chooses to send a voice message
                 </li>
                 <li>
-                    The system starts to record the users voice
+                    The system starts to record the actors voice
                 </li>
                 <li>
                     The actor choose to send the voice message
@@ -72,7 +72,15 @@
             <strong>Result</strong>
         </td>
         <td>
-            The voice message of the user is send to the server
+            The voice message of the actor is send to the chat partner
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Exceptions</strong>
+        </td>
+        <td>
+            N/A
         </td>
     </tr>
 </table>
