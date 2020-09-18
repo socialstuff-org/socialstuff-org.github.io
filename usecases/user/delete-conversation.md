@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Delete conversation
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The <a href="../user.md">user</a> can delete a complete conversation.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,14 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            <ul>
+                <li>
+                    The <a href="../user.md">user</a> must be logged in.
+                </li>
+                <li>
+                    There must be at least one conversation which can be deleted. 
+                </li>
+            </ul> 
         </td>
     </tr>
     <tr>
@@ -36,20 +43,14 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The <a href="../user.md">user</a> deletes the conversation.
                 </li>
                 <li>
-                    Item 2
+                    The system removes the conversation.
                 </li>
-                <li>
-                    Item 3
-                </li>
-                <li>
-                    Item 4
-                </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +58,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The selected conversation is deleted. 
         </td>
     </tr>
     <tr>
@@ -65,14 +66,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+           N/A
         </td>
     </tr>      
 </table>
