@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            The Actor has to be <a href="login.md"> logined</a>, <br/> 
+            The Actor has to be <a href="login.md"> logged in</a>, <br/> 
             the User to send the message to has to be in the Actors contact list 
         </td>
     </tr>
