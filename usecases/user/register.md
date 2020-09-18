@@ -38,19 +38,19 @@
         <td>
             <ul>
                 <li>
-                    The <a href="../user.md"> User </a> enters the login page
+                    The actor enters the login page
                 </li>
                 <li>
                     The user chooses to register a new account
                 </li>
                 <li>
-                    The system directs the  <a href="../user.md"> User </a> to the registration form
+                    The system directs the actor to the registration form
                 </li>
                 <li>
-                    The  <a href="../user.md"> User </a> enters the server details as well as his username and password
+                    The  actor enters the server details as well as his username and password
                 </li>
                 <li>
-                    The  <a href="../user.md"> User </a> chooses to confirm his details
+                    The actor chooses to confirm his details
                 </li>
                 <li>
                     The system registers the user
@@ -63,7 +63,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            The user has been registered in the system
+            The actor has been registered in the system
         </td>
     </tr>
     <tr>
