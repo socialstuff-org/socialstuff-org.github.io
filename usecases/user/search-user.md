@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Search user to start a chat
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The user search for a user to start a chat.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The user is logged in.
         </td>
     </tr>
     <tr>
@@ -36,43 +36,41 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor starts to search for a user
                 </li>
                 <li>
-                    Item 2
+                    The actor starts typing in the username
                 </li>
                 <li>
-                    Item 3
+                    The system displays the to the typed in username corresponding user.
                 </li>
                 <li>
-                    Item 4
+                    The actor selects the user to start a chat
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
-        <td>
-            <strong>Result</strong>
-        </td>
-        <td>
-            lorem pisum
-        </td>
-    </tr>
+    <tr>
+        <tr>
+            <td>
+                <strong>Result</strong>
+            </td>
+            <td>
+                The user selected a chat partner
+            </td>
+        </tr>
     <tr>
         <td>
             <strong>Exceptions</strong>
         </td>
-        <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+         <td>
+            3a. The system is set to show all usernames
+            <li>
+                The system shows all users witch matches the typed in characters
+            </li>
         </td>
     </tr>      
 </table>

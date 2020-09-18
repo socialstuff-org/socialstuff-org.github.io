@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Block a User
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            A user blocks another user to prevent receiving messages of him/ her
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            User needs to be logged in.
         </td>
     </tr>
     <tr>
@@ -36,20 +36,20 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor chooses a user to block
                 </li>
                 <li>
-                    Item 2
+                    The actor chooses to view the profile of the user
                 </li>
                 <li>
-                    Item 3
+                    The actor chooses to block the user
                 </li>
                 <li>
-                    Item 4
+                    The system acknowledge this decision
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,22 +57,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The selected user is not able anymore to send messages to the actor
         </td>
     </tr>
-    <tr>
-        <td>
-            <strong>Exceptions</strong>
-        </td>
-        <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
-        </td>
-    </tr>      
 </table>
