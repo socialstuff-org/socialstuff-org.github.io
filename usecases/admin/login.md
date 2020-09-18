@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Login
         </td>
     </tr>
     <tr>
@@ -12,15 +12,15 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            Admin
         </td>
     </tr>
     <tr>
         <td>
-            <strong>Description</strong>            
+            <strong>Description</strong>
         </td>
         <td>
-            lorem pisum
+            The login process for the Admin user.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            N/A
         </td>
     </tr>
     <tr>
@@ -36,20 +36,20 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    Actor enters their credentials into the system.
                 </li>
                 <li>
-                    Item 2
+                    System checks actor's credentials.
                 </li>
                 <li>
-                    Item 3
+                    System informs actor about the login success.
                 </li>
                 <li>
-                    Item 4
+                    Actor is logged into the system.
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The actor has been successfully logged into the system.
         </td>
     </tr>
     <tr>
@@ -67,10 +67,10 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    3. The actor's credentials were invalid.
                 </li>
                 <li>
-                    Item 2
+                    3.1 Use case ends here.
                 </li>
             </ul>
         </td>

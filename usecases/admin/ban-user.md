@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Ban user
         </td>
     </tr>
     <tr>
@@ -12,15 +12,15 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            Admin
         </td>
     </tr>
     <tr>
         <td>
-            <strong>Description</strong>            
+            <strong>Description</strong>
         </td>
         <td>
-            lorem pisum
+            This use case describes the procedure of banning a user/removing their access to the system.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            Actor is logged in: <a href="./login.md">login</a>
         </td>
     </tr>
     <tr>
@@ -36,20 +36,20 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    Actor searches for a specific user by their username.
                 </li>
                 <li>
-                    Item 2
+                    System shows the entry for the user.
                 </li>
                 <li>
-                    Item 3
+                    Actor triggers the action to diable the user's login.
                 </li>
                 <li>
-                    Item 4
+                    System applies the login ban and informs the actor about the result.
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The user to ban can not login into the system anymore and all current logins will be terminated.
         </td>
     </tr>
     <tr>
@@ -67,12 +67,12 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    1. System message: "unknown user"
                 </li>
                 <li>
-                    Item 2
+                    1.1 Use case ends here
                 </li>
             </ul>
         </td>
-    </tr>      
+    </tr>
 </table>
