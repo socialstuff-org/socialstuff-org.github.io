@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Logout
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            <a href="../user.md">User</a>
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The Actor chooses to log out of the system
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The Actor has to be <a href="login.md"> logged in</a>         
         </td>
     </tr>
     <tr>
@@ -38,16 +38,13 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The actor chooses to log out of the system
                 </li>
                 <li>
-                    Item 2
+                    The system logs the actor out of the system
                 </li>
                 <li>
-                    Item 3
-                </li>
-                <li>
-                    Item 4
+                    The system directs the actor to the login page
                 </li>
             </ul>
         </td>
@@ -57,7 +54,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The actor is logged out
         </td>
     </tr>
     <tr>
@@ -65,14 +62,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            NA
         </td>
     </tr>      
 </table>
