@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Open Chat
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            Actor opens a chat
         </td>
     </tr>
     <tr>
@@ -28,7 +28,10 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            Actor is 
+            <a href="login.md">
+            logged in
+            </a> <br>Actor has chats available
         </td>
     </tr>
     <tr>
@@ -37,17 +40,11 @@
         </td>
         <td>
             <ul>
-                <li>
-                    Item 1
+                <li>1|
+                    Actor selects a chat in the list of recently opened chats
                 </li>
                 <li>
-                    Item 2
-                </li>
-                <li>
-                    Item 3
-                </li>
-                <li>
-                    Item 4
+                    2| System displays the chat and corrisponding chat history
                 </li>
             </ul>
         </td>
@@ -57,7 +54,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            Actor has opened the chat
         </td>
     </tr>
     <tr>
@@ -67,12 +64,21 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    2| Actor is not longer registered to the system
                 </li>
                 <li>
-                    Item 2
+                    2| Actor has deleted chat history
                 </li>
             </ul>
         </td>
-    </tr>      
+    </tr>
+    <td>
+                <strong>Alternate Flow</strong>
+            </td>
+            <td>
+            <li>
+            1a| Actor select a contact person to chat with in the contact list
+            </li>
+            </td>      
 </table>
+

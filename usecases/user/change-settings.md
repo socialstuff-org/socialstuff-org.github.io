@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Change Settings
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            Actor changes settings
         </td>
     </tr>
     <tr>
@@ -28,7 +28,10 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            Actor is 
+            <a href="login.md">
+            logged in
+            </a> 
         </td>
     </tr>
     <tr>
@@ -37,17 +40,29 @@
         </td>
         <td>
             <ul>
-                <li>
-                    Item 1
+                <li>1|
+                    Actor selects the hamburg menu button
                 </li>
                 <li>
-                    Item 2
+                    2| System displays options to interact with 
                 </li>
                 <li>
-                    Item 3
+                    3| Actor selects settings
                 </li>
                 <li>
-                    Item 4
+                    4| System displays settings
+                </li>
+                <li>
+                    5| Actor selects setting to change
+                </li>
+                <li>
+                    6| System displays a confirmation message
+                </li>
+                <li>
+                    7| Actor selects confirm changes
+                </li>
+                <li>
+                    8| System changed settings
                 </li>
             </ul>
         </td>
@@ -57,7 +72,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            Actor has changed the settings
         </td>
     </tr>
     <tr>
@@ -67,12 +82,18 @@
         <td>
             <ul>
                 <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
+                    5| Actor is authorized to changes this setting
                 </li>
             </ul>
         </td>
-    </tr>      
+    </tr>
+    <td>
+                <strong>Alternate Flow</strong>
+            </td>
+            <td>
+            <li>
+                                7a| Actor selects cancel changes
+                            </li>
+            </td>      
 </table>
+
