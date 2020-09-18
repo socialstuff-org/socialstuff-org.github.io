@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            View profile picture
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The user can view his profile picture.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The <a href="../user.md">user</a> has to be logged in.
         </td>
     </tr>
     <tr>
@@ -36,20 +36,26 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The <a href="../user.md">user</a> navigates to settings.
                 </li>
                 <li>
-                    Item 2
+                    The system shows the settings menu.
                 </li>
                 <li>
-                    Item 3
+                    The <a href="../user.md">user</a> navigates to profile settings.
                 </li>
                 <li>
-                    Item 4
+                    The system shows the profile settings menu.
                 </li>
-            </ul>
+                <li>
+                    The <a href="../user.md">user</a> selects view profile picture.
+                </li>
+                <li>
+                    The system shows the profile picture.
+                </li>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +63,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The profile picture is shown on the screen.
         </td>
     </tr>
     <tr>
@@ -67,10 +73,7 @@
         <td>
             <ul>
                 <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
+                    6. If the user does not have a profile picture a placeholder image should be shown.
                 </li>
             </ul>
         </td>
