@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Register
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+             <a href="../user.md"> User </a>
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            User registers at a server
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            NA
         </td>
     </tr>
     <tr>
@@ -38,16 +38,22 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The <a href="../user.md"> User </a> enters the login page
                 </li>
                 <li>
-                    Item 2
+                    The user chooses to register a new account
                 </li>
                 <li>
-                    Item 3
+                    The system directs the  <a href="../user.md"> User </a> to the registration form
                 </li>
                 <li>
-                    Item 4
+                    The  <a href="../user.md"> User </a> enters the server details as well as his username and password
+                </li>
+                <li>
+                    The  <a href="../user.md"> User </a> chooses to confirm his details
+                </li>
+                <li>
+                    The system registers the user
                 </li>
             </ul>
         </td>
@@ -57,7 +63,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The user has been registered in the system
         </td>
     </tr>
     <tr>
@@ -65,14 +71,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            NA
         </td>
     </tr>      
 </table>
