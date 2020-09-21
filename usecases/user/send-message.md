@@ -39,16 +39,16 @@
         <td>
             <ul>
                 <li>
-                    The actor chooses to the contact to send a message to
+                    The actor chooses a user to send a message to
                 </li>
                 <li>
-                    The system opens up the chat function
+                    The system navigates to the chat of the selected user
                 </li>
                 <li>
                     The actor enters the message and chooses to send it
                 </li>
                 <li>
-                    The system sends the message to the contact
+                    The system sends the message to the chat partner
                 </li>
             </ul>
         </td>
