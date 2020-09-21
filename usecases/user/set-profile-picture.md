@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The actor can set his own profile picture so it will be visible for his contacts later on.
+            The actor can set their own profile picture so it will be visible for his contacts later on.
         </td>
     </tr>
     <tr>

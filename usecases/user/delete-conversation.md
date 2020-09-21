@@ -45,7 +45,13 @@
         <td>
             <ol>
                 <li>
-                    The actor deletes the conversation.
+                    The actor selects a conversation from the conversation overview
+                </li>
+                <li>
+                    The system displays options to interact with the highlighted conversation
+                </li>
+                <li>
+                    The actor decides to delete the conversation from the conversation overview.
                 </li>
                 <li>
                     The system removes the conversation.

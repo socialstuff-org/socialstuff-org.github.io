@@ -48,7 +48,13 @@
         <td>
             <ol>
                 <li>
-                    The actor deletes a message from a conversation.
+                    The actor selects a message in the opened chat
+                </li>
+                <li>
+                    The system displays options to interact with the highlighted message
+                </li>
+                <li>
+                    The actor decides to delete the message from the conversation.
                 </li>
                 <li>
                     The system removes the message from the conversation.

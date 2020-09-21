@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The user can view his profile picture.
+            The user can view their profile picture.
         </td>
     </tr>
     <tr>
