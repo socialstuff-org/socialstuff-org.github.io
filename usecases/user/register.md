@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            User registers at a server
+            Actor registers at a server
         </td>
     </tr>
     <tr>
@@ -41,16 +41,16 @@
                     The actor enters the login page
                 </li>
                 <li>
-                    The user chooses to register a new account
+                    The actor chooses to register a new account
                 </li>
                 <li>
                     The system directs the actor to the registration form
                 </li>
                 <li>
-                    The  actor enters the server details as well as his username and password
+                    The  actor enters the server details as well as their username and password
                 </li>
                 <li>
-                    The actor chooses to confirm his details
+                    The actor chooses to confirm their details
                 </li>
                 <li>
                     The system registers the user
