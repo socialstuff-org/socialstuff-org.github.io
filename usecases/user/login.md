@@ -38,31 +38,18 @@
         <td>
             <ul>
                 <li>
-                    The <a href="../user.md"> user </a> enters the login page
+                    The actor navigates to login
                 </li>
                 <li>
-                    The <a href="../user.md"> user </a> provides his login credentials and the server details
+                    The actor provides their login credentials and the server details
                 </li>
                 <li>
                     The system verifies the login credentials
                 </li>
                 <li>
-                    if the credentials are valid:
-                    <ul>
-                        <li>
-                            if credentials are valid
-                            <ul>
-                                the system logs in the user
-                            </ul>
-                        </li>
-                        <li>
-                            else
-                            <ul>
-                                The user notifies that the credentials were invalid
-                            </ul>
-                        </li>
-                        </li>
-                        </li>
+                    The system logs in the actor
+                </li>
+               </ul>
                     </ul>
                 </li>
             </ul>
@@ -73,7 +60,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            The <a href="../user.md"> user </a> is logged in
+            The actor is logged in
         </td>
     </tr>
     <tr>
@@ -81,7 +68,24 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            NA
+             <li>
+                if the credentials are valid:
+                <ul>
+                    <li>
+                        if credentials are valid
+                        <ul>
+                            the system logs in the user
+                        </ul>
+                    </li>
+                    <li>
+                        else
+                        <ul>
+                            The user notifies that the credentials were invalid
+                        </ul>
+                    </li>
+                </li>
+            </li>
+            </ul>
         </td>
     </tr>      
 </table>
