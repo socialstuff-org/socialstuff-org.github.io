@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The actor can set their own profile picture so it will be visible for his contacts later on.
+            The actor can set their own profile picture so it will be visible for their contacts later on.
         </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            The profile picture has changed to the selected image.
+            The profile picture has been changed to the selected image.
         </td>
     </tr>
     <tr>
