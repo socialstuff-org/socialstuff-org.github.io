@@ -13,7 +13,6 @@ TO = task owner
 - [view profile picture](user/view-profile-picture.md) TO: Maurits
 - [open chat](user/open-chat.md) TO: Dave
 - [start new chat](user/start-new-chat.md) TO: Dave
-- [record voice message](user/record-voice-message.md) TO: Malte
 - [send voice message](user/send-voice-message.md) TO: Malte
 - [send file](user/send-file.md) TO: Malte
 - [delete message](user/delete-message.md) TO: Maurits
