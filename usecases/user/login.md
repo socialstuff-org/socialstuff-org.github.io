@@ -69,7 +69,7 @@
         </td>
         <td>
              <li>
-                if the credentials are valid:
+                if the everything goes right:
                 <ul>
                     <li>
                         if credentials are valid
