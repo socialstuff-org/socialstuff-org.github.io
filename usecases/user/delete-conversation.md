@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The <a href="../user.md">user</a> can delete a complete conversation.
+            The actor can delete a complete conversation.
         </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
         <td>
             <ul>
                 <li>
-                    The <a href="../user.md">user</a> must be logged in.
+                    The actor must be logged in.
                 </li>
                 <li>
                     There must be at least one conversation which can be deleted. 
@@ -45,7 +45,7 @@
         <td>
             <ol>
                 <li>
-                    The <a href="../user.md">user</a> deletes the conversation.
+                    The actor deletes the conversation.
                 </li>
                 <li>
                     The system removes the conversation.

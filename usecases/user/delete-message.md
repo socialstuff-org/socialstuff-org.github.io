@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The <a href="../user.md">user</a> can delete a message from a conversation.
+            The actor can delete a message from a conversation.
         </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
         <td>
             <ul>
                 <li>
-                    The <a href="../user.md">user</a> has to be logged in.
+                    The actor has to be logged in.
                 </li>
                 <li>
                     There must be a chat selected.
@@ -48,7 +48,7 @@
         <td>
             <ol>
                 <li>
-                    The user deletes a message from a conversation.
+                    The actor deletes a message from a conversation.
                 </li>
                 <li>
                     The system removes the message from the conversation.

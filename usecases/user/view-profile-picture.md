@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            The <a href="../user.md">user</a> has to be logged in.
+            The actor has to be logged in.
         </td>
     </tr>
     <tr>
@@ -38,19 +38,19 @@
         <td>
             <ol>
                 <li>
-                    The <a href="../user.md">user</a> navigates to settings.
+                    The actor navigates to settings.
                 </li>
                 <li>
                     The system shows the settings menu.
                 </li>
                 <li>
-                    The <a href="../user.md">user</a> navigates to profile settings.
+                    The actor navigates to profile settings.
                 </li>
                 <li>
                     The system shows the profile settings menu.
                 </li>
                 <li>
-                    The <a href="../user.md">user</a> selects view profile picture.
+                    The actor selects view profile picture.
                 </li>
                 <li>
                     The system shows the profile picture.

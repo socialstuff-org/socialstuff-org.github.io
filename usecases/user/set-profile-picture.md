@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            The <a href="../user.md">user</a> can set his own profile picture so it will be visible for his contacts later on.
+            The actor can set his own profile picture so it will be visible for his contacts later on.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            The <a href="../user.md">user</a> has to be logged in.
+            The actor has to be logged in.
         </td>
     </tr>
     <tr>
@@ -38,22 +38,22 @@
         <td>
             <ol>
                 <li>
-                    The <a href="../user.md">user</a> navigates to settings.
+                    The actor navigates to settings.
                 </li>
                 <li>
                     The system shows the settings menu.
                 </li>
                 <li>
-                    The <a href="../user.md">user</a> navigates to profile settings.
+                    The actor navigates to profile settings.
                 </li>
                 <li>
                     The system shows the profile settings menu.
                 </li>
                 <li>
-                    The <a href="../user.md">user</a> selects "change profile picture".
+                    The actor selects "change profile picture".
                 </li>
                 <li>
-                    The <a href="../user.md">user</a> selects and saves a picture.
+                    The actor selects and saves a picture.
                 </li>
             </ol>
         </td>
