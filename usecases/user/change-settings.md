@@ -41,7 +41,7 @@
         <td>
             <ul>
                 <li>1|
-                    Actor selects the hamburg menu button
+                    Actor selects the hamburger menu button
                 </li>
                 <li>
                     2| System displays options to interact with 
@@ -82,7 +82,7 @@
         <td>
             <ul>
                 <li>
-                    5| Actor is authorized to changes this setting
+                    5| Actor is not authorized to changes this setting
                 </li>
             </ul>
         </td>

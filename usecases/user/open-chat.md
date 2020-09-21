@@ -64,10 +64,7 @@
         <td>
             <ul>
                 <li>
-                    2| Actor is not longer registered to the system
-                </li>
-                <li>
-                    2| Actor has deleted chat history
+                    2| User is not longer registered to the system
                 </li>
             </ul>
         </td>

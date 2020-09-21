@@ -32,6 +32,7 @@
             <a href="login.md">
             logged in
             </a> <br>Actor has <a href="open-cat">opened</a> a chat
+            <br>Message is available
         </td>
     </tr>
     <tr>
@@ -68,20 +69,14 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    4| User has deleted the message
-                </li>
-                <li>
-                    4| User has deleted chat history
-                </li>
-            </ul>
+        N/A
         </td>
     </tr>
     <td>
                 <strong>Alternate Flow</strong>
             </td>
             <td>
+            N/A
             </td>      
 </table>
 
