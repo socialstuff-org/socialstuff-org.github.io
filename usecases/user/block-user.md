@@ -44,7 +44,7 @@
                     The system navigates to the chat of the selected chat partner
                 </li>
                 <li>
-                    The actor chooses to view the profile of the user
+                    The actor chooses to <a href="./view-profile.md">view the profile</a> of the user
                 </li>
                 <li>
                     The system shows the profile of the selected user
