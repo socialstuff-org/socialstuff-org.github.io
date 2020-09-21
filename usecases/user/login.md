@@ -69,22 +69,9 @@
         </td>
         <td>
              <li>
-                if the everything goes right:
+                if credentials are invalid:
                 <ul>
-                    <li>
-                        if credentials are valid
-                        <ul>
-                            the system logs in the user
-                        </ul>
-                    </li>
-                    <li>
-                        else
-                        <ul>
-                            The user notifies that the credentials were invalid
-                        </ul>
-                    </li>
-                </li>
-            </li>
+                    the system notifies the actor about invalid credential
             </ul>
         </td>
     </tr>      
