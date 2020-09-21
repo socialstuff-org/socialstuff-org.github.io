@@ -44,7 +44,7 @@
                     The system logs the actor out of the system
                 </li>
                 <li>
-                    The system directs the actor to the login page
+                    The system navigates the actor to the login page
                 </li>
             </ul>
         </td>
