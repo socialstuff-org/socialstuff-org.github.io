@@ -33,7 +33,7 @@
 ***-- to be added --***
 
 ### State machine diagrams
- - [Message](design/state-machine-diagrams/message.svg)
+ - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]
  
 ## Visual Design
 
