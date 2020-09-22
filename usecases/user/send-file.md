@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Send file
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            An actor selects a file and send it to an other user.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The actor needs to be logged in and has a chat partner selected.
         </td>
     </tr>
     <tr>
@@ -36,28 +36,40 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor chooses to send a file
                 </li>
                 <li>
-                    Item 2
+                    The system shows a file explorer
                 </li>
                 <li>
-                    Item 3
+                    The actor selects a file to send
                 </li>
                 <li>
-                    Item 4
+                    The system sends the file to the chat partner
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
+    <tr>
+            <td>
+                <strong>Extensions</strong>
+            </td>
+            <td>
+            2a. The actor chooses multiple files
+            <li>
+                The System sends the files to the chat partner
+            </li>
+            </td>
+        </tr>
+        <tr>
     <tr>
         <td>
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The file is send to the chat partner
         </td>
     </tr>
     <tr>
@@ -65,14 +77,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            N/A
         </td>
-    </tr>      
+    </tr>
 </table>

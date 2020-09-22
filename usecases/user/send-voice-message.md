@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Send voice message
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            An actor records a message and sends it to an other user.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The actor needs to be logged in and has a chat partner selected.
         </td>
     </tr>
     <tr>
@@ -36,28 +36,43 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor chooses to send a voice message
                 </li>
                 <li>
-                    Item 2
+                    The system starts to record the actors voice
                 </li>
                 <li>
-                    Item 3
+                    The actor choose to send the voice message
                 </li>
                 <li>
-                    Item 4
+                    The system stops recording
                 </li>
-            </ul>
+                <li>
+                    The system sends the recorded message
+                </li>
+            </ol>
         </td>
     </tr>
+    <tr>
+            <td>
+                <strong>Extensions</strong>
+            </td>
+            <td>
+            3a. The actor chooses to cancel the recording
+            <li>
+                The System stops recording
+            </li>
+            </td>
+        </tr>
+        <tr>
     <tr>
         <td>
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The voice message of the actor is send to the chat partner
         </td>
     </tr>
     <tr>
@@ -65,14 +80,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            N/A
         </td>
-    </tr>      
+    </tr>
 </table>
