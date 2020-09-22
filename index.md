@@ -21,8 +21,8 @@
 ### Use cases
 
  - Use case [diagram](usecases/usecase-diagram.svg) [[Source](usecases/use-case.uxf)]
- - Use cases for [user](usecases/user.md)
- - Use cases for [admin](usecases/admin.md)
+ - Use cases for [user](usecases/index-user.md)
+ - Use cases for [admin](usecases/index-admin.md)
 
 ## Design
 
