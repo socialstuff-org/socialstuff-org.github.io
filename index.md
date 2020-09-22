@@ -33,7 +33,7 @@
 ***-- to be added --***
 
 ### State machine diagrams
- - [Message](state-machine-diagrams/message.md) ***-- file to be added --***
+ - [Message](design/state-machine-diagrams/message.svg)
  
 ## Visual Design
 
