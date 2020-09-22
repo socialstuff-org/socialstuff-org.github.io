@@ -41,7 +41,7 @@
 
 Please refer to the below listed files for more details.
 
- - [Color palette](visual-design/color-palette.md)
+ - [Color palettes](visual-design/color-palette.md)
 
 ## Implementation
 
