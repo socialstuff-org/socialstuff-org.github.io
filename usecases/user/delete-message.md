@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Delete message
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The actor can delete a message from a conversation.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,17 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            <ul>
+                <li>
+                    The actor has to be logged in.
+                </li>
+                <li>
+                    There must be a chat selected.
+                </li>
+                <li>
+                    There must be at least one message which can be deleted.
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -36,20 +46,20 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor selects a message in the opened chat
                 </li>
                 <li>
-                    Item 2
+                    The system displays options to interact with the highlighted message
                 </li>
                 <li>
-                    Item 3
+                    The actor decides to delete the message from the conversation.
                 </li>
                 <li>
-                    Item 4
+                    The system removes the message from the conversation.
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +67,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The selected message is deleted.
         </td>
     </tr>
     <tr>
@@ -65,14 +75,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            N/A
         </td>
     </tr>      
 </table>

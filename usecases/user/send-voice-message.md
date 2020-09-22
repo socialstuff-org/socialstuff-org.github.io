@@ -56,17 +56,16 @@
         </td>
     </tr>
     <tr>
-            <td>
-                <strong>Extensions</strong>
-            </td>
-            <td>
-            3a. The actor chooses to cancel the recording
-            <li>
-                The System stops recording
-            </li>
-            </td>
-        </tr>
-        <tr>
+        <td>
+            <strong>Extensions</strong>
+        </td>
+        <td>
+        3a. The actor chooses to cancel the recording
+        <li>
+            The System stops recording
+        </li>
+        </td>
+    </tr>
     <tr>
         <td>
             <strong>Result</strong>
