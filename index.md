@@ -33,7 +33,7 @@
 ***-- to be added --***
 
 ### State machine diagrams
- - [Message](state-machine-diagrams/message.md) ***-- file to be added --***
+ - [Message](design/state-machine-diagrams/message.svg)
  
 ## Visual Design
 
@@ -41,7 +41,7 @@
 
 Please refer to the below listed files for more details.
 
- - [Color palette](visual-design/color-palette.md) ***-- file to be added --***
+ - [Color palettes](visual-design/color-palette.md)
 
 ## Implementation
 
