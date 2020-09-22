@@ -20,7 +20,7 @@
 
 ### Use cases
 
- - Use case [diagram](usecases/diagram.md)
+ - Use case [diagram](usecases/usecase-diagram.svg)
  - Use cases for [user](usecases/user.md)
  - Use cases for [admin](usecases/admin.md)
 
