@@ -16,13 +16,21 @@
   * Tobias Jansen
   * Jörn Neumeyer
 
+## Introduction
+
+***-- Add a detailed introduction on what socialstuff is all about --***
+
 ## Analysis
 
 ### Use cases
 
- - Use case [diagram](usecases/usecase-diagram.svg)
- - Use cases for [user](usecases/user.md)
- - Use cases for [admin](usecases/admin.md)
+ - Use case [diagram](usecases/usecase-diagram.svg) [[Source](usecases/use-case.uxf)]
+ - Use cases for [user](usecases/index-user.md)
+ - Use cases for [admin](usecases/index-admin.md)
+
+### High level architectural overview
+
+***-- Add a description how socialstuff will work (high level, client Alice/Bob, multiple servers, etc.) --***
 
 ## Design
 
@@ -33,7 +41,7 @@
 ***-- to be added --***
 
 ### State machine diagrams
- - [Message](design/state-machine-diagrams/message.svg)
+ - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]
  
 ## Visual Design
 

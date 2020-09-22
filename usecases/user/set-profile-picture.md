@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            <a href="../user.md">User</a>
+            <a href="../index-user.md">User</a>
         </td>
     </tr>
     <tr>
