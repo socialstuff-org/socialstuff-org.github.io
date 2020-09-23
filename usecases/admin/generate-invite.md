@@ -30,7 +30,7 @@
         <td>
             <ul>
                 <li>Actor is loggedin.</li>
-                <li>System requires invitation codes.</li>
+                <li>System requires invitation codes for new users to register.</li>
             </ul>
         </td>
     </tr>
