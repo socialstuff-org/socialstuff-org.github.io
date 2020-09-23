@@ -50,6 +50,7 @@
 Please refer to the below listed files for more details.
 
  - [Color palettes](visual-design/color-palette.md)
+ - [Wireframes](visual-design/wireframes.md)
 
 ## Implementation
 
