@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Generate Invite
         </td>
     </tr>
     <tr>
@@ -12,15 +12,15 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            Admin
         </td>
     </tr>
     <tr>
         <td>
-            <strong>Description</strong>            
+            <strong>Description</strong>
         </td>
         <td>
-            lorem pisum
+            The actor may generate invitation codes for new users to register with.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,10 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            <ul>
+                <li>Actor is loggedin.</li>
+                <li>System requires invitation codes for new users to register.</li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -36,20 +39,26 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    Actor opens an overview of system settings.
                 </li>
                 <li>
-                    Item 2
+                    System shows the available settings of the system.
                 </li>
                 <li>
-                    Item 3
+                    Actor navigates to registration invitations section.
                 </li>
                 <li>
-                    Item 4
+                    System displays registration invitations options.
                 </li>
-            </ul>
+                <li>
+                    Actor triggers action "Generate Invitation Code".
+                </li>
+                <li>
+                    System generates an invitation code for user registration and displays it to the actor.
+                </li>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +66,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            A new registration invitation/code was generated and persisted, so a user may use it for the registration process.
         </td>
     </tr>
     <tr>
@@ -65,14 +74,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            N/A
         </td>
-    </tr>      
+    </tr>
 </table>
