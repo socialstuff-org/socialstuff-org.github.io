@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Login
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+             <a href="../user.md"> User </a>
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The user logs in to the system
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+             The <a href="../user.md"> User </a> has to be <a href="register.md"> registered </a>
         </td>
     </tr>
     <tr>
@@ -38,16 +38,19 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The actor navigates to login
                 </li>
                 <li>
-                    Item 2
+                    The actor provides their login credentials and the server details
                 </li>
                 <li>
-                    Item 3
+                    The system verifies the login credentials
                 </li>
                 <li>
-                    Item 4
+                    The system logs in the actor
+                </li>
+               </ul>
+                    </ul>
                 </li>
             </ul>
         </td>
@@ -57,7 +60,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The actor is logged in
         </td>
     </tr>
     <tr>
@@ -65,13 +68,10 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
+             <li>
+                if credentials are invalid:
+                <ul>
+                    the system notifies the actor about invalid credential
             </ul>
         </td>
     </tr>      

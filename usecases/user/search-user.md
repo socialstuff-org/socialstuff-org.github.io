@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Search User
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The actor searches for a user to continue a chat with.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The actor is logged in.
         </td>
     </tr>
     <tr>
@@ -36,20 +36,17 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor enters a username
                 </li>
                 <li>
-                    Item 2
+                    The system displays the matching chat partners.
                 </li>
                 <li>
-                    Item 3
+                    The actor selects a user to start a chat
                 </li>
-                <li>
-                    Item 4
-                </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,22 +54,18 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The user selected a chat partner
         </td>
     </tr>
     <tr>
         <td>
             <strong>Exceptions</strong>
         </td>
-        <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+         <td>
+            3a. The system can not find a chat partner for the typed in username
+            <li>
+                System: "no user found"
+            </li>
         </td>
     </tr>      
 </table>

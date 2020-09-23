@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Block a User
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            An actor blocks another user to prevent receiving messages of them
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The actor needs to be logged in.
         </td>
     </tr>
     <tr>
@@ -36,20 +36,26 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    The actor chooses a user to block
                 </li>
                 <li>
-                    Item 2
+                    The system navigates to the chat of the selected chat partner
                 </li>
                 <li>
-                    Item 3
+                    The actor chooses to <a href="./view-profile.md">view the profile</a> of the user
                 </li>
                 <li>
-                    Item 4
+                    The system shows the profile of the selected user
                 </li>
-            </ul>
+                <li>
+                    The actor chooses to block the user
+                </li>
+                <li>
+                    The system acknowledges the decision
+                </li>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +63,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The selected user is not able to send messages to the actor anymore
         </td>
     </tr>
     <tr>
@@ -65,14 +71,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            N/A
         </td>
-    </tr>      
+    </tr>
 </table>

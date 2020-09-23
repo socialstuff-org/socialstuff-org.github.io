@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Start new chat
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            User
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            Actor starts a new chat
         </td>
     </tr>
     <tr>
@@ -28,8 +28,12 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
-        </td>
+                    Actor is 
+                    <a href="login.md">
+                    logged in
+                    </a> <br>Actor has <a href="search-user.md">searched
+                     </a>for a user
+                </td>
     </tr>
     <tr>
         <td>
@@ -37,17 +41,11 @@
         </td>
         <td>
             <ul>
-                <li>
-                    Item 1
+                <li>1|
+                    Actor select a contact person to start the chat <br>with in the search result list
                 </li>
                 <li>
-                    Item 2
-                </li>
-                <li>
-                    Item 3
-                </li>
-                <li>
-                    Item 4
+                    2| System starts and displays the chat 
                 </li>
             </ul>
         </td>
@@ -57,7 +55,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            Actor has started a new chat
         </td>
     </tr>
     <tr>
@@ -67,12 +65,16 @@
         <td>
             <ul>
                 <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
+                    2| User has blocked you, system will start and open <br> the new chat
                 </li>
             </ul>
         </td>
-    </tr>      
+    </tr>
+    <td>
+                <strong>Alternate Flow</strong>
+            </td>
+            <td>
+            N/A
+            </td>      
 </table>
+

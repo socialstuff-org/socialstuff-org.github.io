@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Send message
         </td>
     </tr>
     <tr>
@@ -12,7 +12,7 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            <a href="../user.md"> User </a>
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            The Actor sends a message to another user
         </td>
     </tr>
     <tr>
@@ -28,7 +28,8 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            The Actor has to be <a href="login.md"> logged in</a>, <br/> 
+            the User to send the message to has to be in the Actors contact list 
         </td>
     </tr>
     <tr>
@@ -38,16 +39,16 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The actor chooses a user to send a message to
                 </li>
                 <li>
-                    Item 2
+                    The system navigates to the chat of the selected user
                 </li>
                 <li>
-                    Item 3
+                    The actor enters the message and chooses to send it
                 </li>
                 <li>
-                    Item 4
+                    The system sends the message to the chat partner
                 </li>
             </ul>
         </td>
@@ -57,7 +58,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The message has been sent
         </td>
     </tr>
     <tr>
@@ -65,14 +66,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            NA
         </td>
     </tr>      
 </table>
