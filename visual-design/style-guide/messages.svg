@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="780" height="848" viewBox="0 0 780 848">
+  <defs>
+    <clipPath id="clip-messages">
+      <rect width="780" height="848"/>
+    </clipPath>
+  </defs>
+  <g id="messages" clip-path="url(#clip-messages)">
+    <rect width="780" height="848" fill="#21142d"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="373" height="37" rx="18.5" transform="translate(58 81)" fill="#510a32"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="373" height="62" rx="20" transform="translate(58 207)" fill="#510a32"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="373" height="206" rx="20" transform="translate(58 564)" fill="#510a32"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="373" height="62" rx="20" transform="translate(349 135)" fill="#c72c41"/>
+    <text id="_12:30" data-name="12:30" transform="translate(371 113)" fill="#bb89a6" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:30</tspan></text>
+    <text id="_12:35" data-name="12:35" transform="translate(371 257)" fill="#bb89a6" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:35</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet" data-name="Lorem ipsum dolor sit amet" transform="translate(76 107)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem ipsum dolor sit amet</tspan></text>
+    <text id="sea_takimata_sanctus_est_Lorem_ipsum_dolor_sit_amet." data-name="sea takimata sanctus est Lorem ipsum dolor sit amet." transform="translate(76 214)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">sea takimata sanctus est Lorem </tspan><tspan x="0" y="43">ipsum dolor sit amet.</tspan></text>
+    <text id="Duis_autem_vel_eum_iriure_dolor_in_hendrerit_in_vulputate_velit_esse_molestie_consequat_vel_illum_dolore_eu_feugiat_nulla_facilisis._Duis_autem_vel_eum_iriure_dolor_in_hendrerit_in_vulputate_velit_esse_molestie_consequat_vel_illum_dolore_eu_feugiat_nulla" data-name="Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla" transform="translate(76 581)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Duis autem vel eum iriure dolor in </tspan><tspan x="0" y="43">hendrerit in vulputate velit esse molestie </tspan><tspan x="0" y="67">consequat, vel illum dolore eu feugiat </tspan><tspan x="0" y="91">nulla facilisis. Duis autem vel eum iriure </tspan><tspan x="0" y="115">dolor in hendrerit in vulputate velit esse </tspan><tspan x="0" y="139">molestie consequat, vel illum dolore eu </tspan><tspan x="0" y="163" xml:space="preserve">feugiat nulla facilisis.      </tspan></text>
+    <text id="At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._" data-name="At vero eos et accusam et justo duo dolores et ea rebum. " transform="translate(367 142)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">At vero eos et accusam et justo duo </tspan><tspan x="0" y="43">dolores et ea rebum. </tspan></text>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="373" height="116" rx="20" transform="translate(349 354)" fill="#c72c41"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="373" height="62" rx="20" transform="translate(349 485)" fill="#c72c41"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="373" height="62" rx="20" transform="translate(349 280)" fill="#c72c41"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(-250 1)">
+      <text id="_" data-name="➞" transform="translate(931 462) rotate(-90)" fill="#2d142d" font-size="18" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="19">➞</tspan></text>
+      <text id="_2" data-name="➞" transform="translate(963 444) rotate(90)" fill="#2d142d" font-size="18" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="19">➞</tspan></text>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-250 77)">
+      <text id="_3" data-name="➞" transform="translate(931 462) rotate(-90)" fill="#2d142d" font-size="18" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="19">➞</tspan></text>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(-533 296)">
+      <text id="_4" data-name="➞" transform="translate(931 462) rotate(-90)" fill="#fff" font-size="18" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="19">➞</tspan></text>
+    </g>
+    <text id="Duis_autem_vel_eum_iriure_dolor_in_hendrerit_in_vulputate_velit_esse_molestie_consequat_vel_illum_dolore_eu_feugiat_nulla_facilisis._" data-name="Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   " transform="translate(372 364)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Duis autem vel eum iriure dolor in </tspan><tspan x="0" y="43">hendrerit in vulputate velit esse </tspan><tspan x="0" y="67">molestie consequat, vel illum </tspan><tspan x="0" y="91" xml:space="preserve">dolore eu feugiat nulla facilisis.   </tspan></text>
+    <text id="sea_takimata_sanctus_est_Lorem_ipsum_dolor_sit_amet.-2" data-name="sea takimata sanctus est Lorem ipsum dolor sit amet." transform="translate(372 491)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">sea takimata sanctus est Lorem </tspan><tspan x="0" y="43">ipsum dolor sit amet.</tspan></text>
+    <text id="sea_takimata_sanctus_est_Lorem_ipsum_dolor_sit_amet.-3" data-name="sea takimata sanctus est Lorem ipsum dolor sit amet." transform="translate(372 286)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">sea takimata sanctus est Lorem </tspan><tspan x="0" y="43">ipsum dolor sit amet.</tspan></text>
+    <text id="_12:36" data-name="12:36" transform="translate(642 461)" fill="#2d142d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:36</tspan></text>
+    <text id="_12:36-2" data-name="12:36" transform="translate(642 537)" fill="#2d142d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:36</tspan></text>
+    <text id="_12:36-3" data-name="12:36" transform="translate(359 756)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:36</tspan></text>
+    <text id="_12:36-4" data-name="12:36" transform="translate(642 334)" fill="#2d142d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:36</tspan></text>
+    <path id="path6686" d="M10.034,245.145a2.271,2.271,0,0,1-2.318,2.221,2.223,2.223,0,1,1,0-4.442A2.271,2.271,0,0,1,10.034,245.145ZM7.72,240.521a9.477,9.477,0,0,0-4,.946A10.189,10.189,0,0,0,1,243.451a1.941,1.941,0,0,0,0,3.391,10.038,10.038,0,0,0,2.724,1.984,9.377,9.377,0,0,0,4,.946,9.523,9.523,0,0,0,4-.946,10.194,10.194,0,0,0,2.724-1.984,1.941,1.941,0,0,0,0-3.391,10.037,10.037,0,0,0-2.724-1.983A9.431,9.431,0,0,0,7.72,240.521Zm0,1.148a3.481,3.481,0,1,1,0,6.954,3.481,3.481,0,1,1,0-6.954Z" transform="translate(689 82.513)" fill="#2d142d"/>
+    <text id="_12:34" data-name="12:34" transform="translate(642 188)" fill="#2d142d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12:34</tspan></text>
+    <path id="path6686-2" data-name="path6686" d="M10.034,245.145a2.271,2.271,0,0,1-2.318,2.221,2.223,2.223,0,1,1,0-4.442A2.271,2.271,0,0,1,10.034,245.145ZM7.72,240.521a9.477,9.477,0,0,0-4,.946A10.189,10.189,0,0,0,1,243.451a1.941,1.941,0,0,0,0,3.391,10.038,10.038,0,0,0,2.724,1.984,9.377,9.377,0,0,0,4,.946,9.523,9.523,0,0,0,4-.946,10.194,10.194,0,0,0,2.724-1.984,1.941,1.941,0,0,0,0-3.391,10.037,10.037,0,0,0-2.724-1.983A9.431,9.431,0,0,0,7.72,240.521Zm0,1.148a3.481,3.481,0,1,1,0,6.954,3.481,3.481,0,1,1,0-6.954Z" transform="translate(689 -63.487)" fill="#2d142d"/>
+  </g>
+</svg>
