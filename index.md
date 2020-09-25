@@ -52,6 +52,8 @@ Please refer to the below listed files for more details.
 
  - Styleguide
     - [Grid & Measurements](visual-design/style-guide/grid.md)
+    - [Message Styling](visual-design/style-guide/message-styling.md)
+    - [Message States](visual-design/style-guide/message-states.md)
  - [Color palettes](visual-design/color-palette.md)
  - [Wireframes](visual-design/wireframes.md)
 
