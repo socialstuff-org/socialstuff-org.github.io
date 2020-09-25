@@ -38,7 +38,8 @@
 
 ### Sequence diagrams
 
-***-- to be added --***
+ - [Send message (best case)](design/sequence-diagrams/sequence-send-message_best-case.svg) [[Source](design/sequence-diagrams/sequence-send-message_best-case.uxf)]
+ - [Send message (worst case)](design/sequence-diagrams/sequence-send-message_worst-case.svg) [[Source](design/sequence-diagrams/sequence-send-message_worst-case.uxf)]
 
 ### State machine diagrams
  - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]

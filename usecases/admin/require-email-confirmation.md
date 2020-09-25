@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Require E-Mail confirmation
         </td>
     </tr>
     <tr>
@@ -12,15 +12,15 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            Admin
         </td>
     </tr>
     <tr>
         <td>
-            <strong>Description</strong>            
+            <strong>Description</strong>
         </td>
         <td>
-            lorem pisum
+            In this use case, the actor changes the server settings, so E-Mail confirmation for user registration is required, or not.
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            Actor is logged in: <a href="./login.md">login</a>
         </td>
     </tr>
     <tr>
@@ -36,20 +36,24 @@
             <strong>Scenario</strong>
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>
-                    Item 1
+                    Actor opens an overview of system settings.
                 </li>
                 <li>
-                    Item 2
+                    System shows the available settings of the system.
                 </li>
                 <li>
-                    Item 3
+                    Actor changes the setting "E-Mail Confirmation"
+                    <ol>
+                        <li> to "required".</li>
+                        <li> to "off".</li>
+                    </ol>
                 </li>
                 <li>
-                    Item 4
+                    System applies the requested settings change.
                 </li>
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
@@ -57,7 +61,8 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            If "E-Mail Confirmation" is set to "required", the system now requires a valid E-Mail address to be present on user registration, as well as confirming the validity of said E-Mail address..
+            On the value "off", the system will not require E-Mail confirmation.
         </td>
     </tr>
     <tr>
@@ -65,14 +70,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    Item 1
-                </li>
-                <li>
-                    Item 2
-                </li>
-            </ul>
+            N/A
         </td>
-    </tr>      
+    </tr>
 </table>
