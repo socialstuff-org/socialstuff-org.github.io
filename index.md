@@ -49,6 +49,8 @@
 
 Please refer to the below listed files for more details.
 
+ - Styleguide
+    - [Grid & Measurements](visual-design/style-guide/grid.md)
  - [Color palettes](visual-design/color-palette.md)
  - [Wireframes](visual-design/wireframes.md)
 
