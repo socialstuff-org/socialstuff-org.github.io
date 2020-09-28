@@ -6,15 +6,18 @@
 * Project Management / Scrum Master:
   * Tobias Jansen
   * Maurits van der Zee
+  
+* Quality Management:
+  * Dave Hoevenaars
 
 * Frontend Developers:
-  * Malte Castner
-  * Dave Hoevenaars
-  * Maurits van der Zee
+  * Malte Castner [[Github]](https://github.com/HerrSvenson)
+  * Dave Hoevenaars [[Github]](https://github.com/DaveHoevenaars)
+  * Maurits van der Zee [[Github]](https://github.com/MauritsvanderZee)
 
 * Backend Developers:
-  * Tobias Jansen
-  * Jörn Neumeyer
+  * Tobias Jansen [[Github]](https://github.com/tobias-jansen-2411)
+  * Jörn Neumeyer [[Github]](https://github.com/joernneumeyer)
 
 ## Introduction
 
