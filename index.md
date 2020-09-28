@@ -20,6 +20,10 @@
 
 ***-- Add a detailed introduction on what socialstuff is all about --***
 
+## Project Management
+
+- [Project Management Plan]() ***-- upload PMP and link file --***
+
 ## Analysis
 
 ### Use cases
