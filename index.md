@@ -40,6 +40,7 @@
 
  - [Send message (best case)](design/sequence-diagrams/sequence-send-message_best-case.svg) [[Source](design/sequence-diagrams/sequence-send-message_best-case.uxf)]
  - [Send message (worst case)](design/sequence-diagrams/sequence-send-message_worst-case.svg) [[Source](design/sequence-diagrams/sequence-send-message_worst-case.uxf)]
+ - [Send file](design/sequence-diagrams/file-transfer.svg) [[Source](design/sequence-diagrams/file-transfer.uxf)] ***-- create diagram --***
 
 ### State machine diagrams
  - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]
@@ -60,5 +61,6 @@ Please refer to the below listed files for more details.
 ### Services
 
  - [Authentication service]() ***-- file to be added --***
+ - [File service](services/file.md)
  <br>
  ***-- more services to be added --***
