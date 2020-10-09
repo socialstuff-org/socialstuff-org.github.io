@@ -26,6 +26,7 @@
 ## Project Management
 
 - [Project Management Plan]() ***-- upload PMP and link file --***
+- [Work-breakdown-structure (WBS)](projectmanagement/WBS.pdf)
 
 ## Analysis
 
