@@ -25,7 +25,8 @@
 
 ## Project Management
 
-- [Project Management Plan]() ***-- upload PMP and link file --***
+- [Project Management Plan](projectmanagement/project_management_plan.pdf) [[Source]](projectmanagement/project_management_plan.docx)
+- [Project Charter](projectmanagement/project_charter.pdf) [[Source]](projectmanagement/project_charter.docx)
 - [Work-breakdown-structure (WBS)](projectmanagement/WBS.pdf)
 
 ## Analysis
