@@ -38,3 +38,5 @@ Contacts
         chat.txt
         media-files
 ```
+
+// NOTE: maybe add padding on usernames to further eliminate relevant metadata
