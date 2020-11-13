@@ -75,5 +75,6 @@ Please refer to the below listed files for more details.
 
  - [Authentication service]() ***-- file to be added --***
  - [File service](services/file.md)
+ - [Crypto Storage API](services/crypto-storage.md)
  <br>
  ***-- more services to be added --***
