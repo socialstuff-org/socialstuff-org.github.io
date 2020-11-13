@@ -8,8 +8,8 @@ The crypto storage service takes care of securely storing all kind of informatio
 ## Directory structure
 In the contact directory all information related to communication with contacts are stored.
 This includes the following details:
-- [chat partner public key]() <span style="color: #ff0000;">// TODO add link to public key explanation (identity service)</span>
-- [conversation key]() <span style="color: #ff0000;">// TODO add link to conversation key explanation (messaging service & backend) </span>
+- [chat partner public key]() <span style="color: #ff0000;">**// TODO add link to public key explanation (identity service)**</span>
+- [conversation key]() <span style="color: #ff0000;">**// TODO add link to conversation key explanation (messaging service & backend)**</span>
 - properties file (including settings such as local name, whether read and delivery receipts are being performed, etc.)
 - chat file: containing the actual conversation
 - media files: directory containing all media files which have been shared in the conversation
