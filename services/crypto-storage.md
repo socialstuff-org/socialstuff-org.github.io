@@ -14,6 +14,7 @@ This includes the following details:
 - chat file: containing the actual conversation
 - media files: directory containing all media files which have been shared in the conversation
 
+### Version 0.1.0
 ```
 Contacts
     Alice
@@ -39,4 +40,25 @@ Contacts
         media-files
 ```
 
-// NOTE: maybe add padding on usernames to further eliminate relevant metadata
+### Version 0.2.0
+***// NOTE: maybe add padding on usernames to further eliminate relevant metadata***
+
+```
+.trale
+    45ee23 (own username hash)
+        master.key
+        chats
+            45237 (chat partner username hash)
+                chat.properties
+                    conversation key
+                    rsa public key
+                    custom display name
+                chat.log
+                [profile image]
+        media
+            ff56a3
+            67hd2e
+        contacts (chat partner username listing)
+        rsa private key
+        rsa public key
+```
