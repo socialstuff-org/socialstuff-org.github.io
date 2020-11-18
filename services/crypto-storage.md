@@ -4,6 +4,10 @@ The crypto storage service takes care of securely storing all kind of informatio
 
 <span style="color: #ff0000;">**// TODO extend description**</span>
 
+## Table of Contents
+- [Directory Structure](#directory-structure)
+    - [Version 0.1.0](#version-010)
+    - [Version 0.2.0](#version-020)
 
 ## Directory structure
 In the contact directory all information related to communication with contacts are stored.
