@@ -8,7 +8,7 @@
 1. Bob uploads files to server
 1. Server stores files
 1. File service returns one UUID per uploaded file
-1. Bob sends message with file UUIDs and [encryption initialization vectors](initVector.md) to server
+1. Bob sends message with file UUIDs and [encryption initialization vectors](../initVector.md) to server
 1. Server sends text message to Alice
 1. Alice receives message
 1. Alice requests files from origin server via (domain.com/file/UUID)
