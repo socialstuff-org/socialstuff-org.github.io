@@ -1,5 +1,10 @@
 # SocialStuff
 
+# TODOs
+
+- 
+
+
 ## Project Roles
 
 * Product Owner: Jörn Neumeyer
@@ -71,10 +76,26 @@ Please refer to the below listed files for more details.
 
 ***-- description to be added --***
 
+### Frontend Components
+***-- TODO --***
+- Auth
+    - [Register]() ***-- TODO --***
+    - [Login]() ***-- TODO --***
+    - [Forgot Password]() ***-- TODO --***
+- ***-- TODO --***
+
 ### Services
 
- - [Authentication service]() ***-- file to be added --***
- - [File service](services/file.md)
- - [Crypto Storage API](services/crypto-storage.md)
- <br>
- ***-- more services to be added --***
+***-- TODO: add description  --***  
+***-- TODO: more services to be added --***
+
+#### Backend services / APIs
+
+ - [Authentication service](services/backend/authentication-service.md) ***-- TODO: file to be added --***
+ - [Identity service](services/backend/identity-service.md) ***TODO***
+ - [File service](services/backend/file-service.md) ***TODO***
+ 
+#### Frontend services
+ - [Crypto Storage Service](services/frontend/crypto-storage-service.md) ***TODO***
+ - [Contact Service](services/frontend/contact-service.md) ***TODO***
+
