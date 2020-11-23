@@ -2,7 +2,15 @@
 
 # TODOs
 
-- 
+- Jörn & Maurits:
+    - connect services
+    - implement handshake
+    - fix minor issues
+- Malte & Tobias:
+    - admin panel (invite links)
+    - 
+- Dave:
+    - todo
 
 
 ## Project Roles
@@ -88,6 +96,8 @@ Please refer to the below listed files for more details.
 
 ***-- TODO: add description  --***  
 ***-- TODO: more services to be added --***
+
+- [List of ports](services/ports.md)
 
 #### Backend services / APIs
 
