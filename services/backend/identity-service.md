@@ -1,5 +1,17 @@
 # Identity service
 
+## Table of Contents
+- [Description](#description)
+- [Default Requirements](#default-requirements)
+- [Sample data for registration / login](#sample-data-for-registration--login)
+- [Setup instructions](#setup-instructions)
+    - [Linux](#on-linux)
+    - [MacOS](#on-macos)
+    - [Windows](#on-windows)
+
+## Description
+<span style="color: #ff0000;">**// TODO add description**</span>
+
 ## Default Requirements
 <table>
     <tr>
