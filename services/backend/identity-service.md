@@ -25,6 +25,7 @@
 
 - Download sample application data [here](../../downloads/identity-sample.zip).
 - Extract ".trale" directory to your home directory so that the folder structure looks like this:
+
 ##### On Linux:
 ```
 ~/home/.trale
@@ -33,7 +34,6 @@
 ```
 ~/Users/{username}/.trale
 ```
-
 
 ##### On Windows:
 ```
