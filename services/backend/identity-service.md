@@ -28,23 +28,23 @@
       <td>50</td>
   </tr>
     <tr>
-        <td>LOWER_WORD_CHARS</td>
-        <td>available chars</td>
+        <td>Password</td>
+        <td>min. 1 LOWER_WORD_CHARS</td>
         <td>abcdefghijklmnopqrstuvwxyz</td>
     </tr>
     <tr>
-        <td>UPPER_WORD_CHARS</td>
-        <td>available chars</td>
+        <td>Password</td>
+        <td>min. 1 UPPER_WORD_CHARS</td>
         <td>ABCDEFGHIJKLMNOPQRSTUVWXYZ</td>
     </tr>
     <tr>
-        <td>NUMBER_CHARS</td>
-        <td>available chars</td>
+        <td>Password</td>
+        <td>min. 1 NUMBER_CHARS</td>
         <td>1234567890</td>
     </tr>
     <tr>
-        <td>SPECIAL_CHARS</td>
-        <td>available chars</td>
+        <td>Password</td>
+        <td>min. 1 SPECIAL_CHARS</td>
         <td>!@#$%^&*()-_=+[]{};\'":,.<>/?`~€</td>
     </tr>
 </table>
