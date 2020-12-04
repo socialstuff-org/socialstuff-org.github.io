@@ -15,10 +15,10 @@
     </tr>
     <tr>
         <td>2020/12/02</td>
-        <td><a href="logs/2020/12/02.html">View changelog</a></td>
+        <td><a href="logs/20201202.html">View changelog</a></td>
     </tr>
     <tr>
         <td>2020/12/04</td>
-        <td><a href="logs/2020/12/04.html">View changelog</a></td>
+        <td><a href="logs/20201204.html">View changelog</a></td>
     </tr>
 </table>
