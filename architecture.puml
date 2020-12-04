@@ -1,0 +1,15 @@
+@startuml
+
+actor alice
+actor bob
+agent serverA
+agent serverB
+
+serverA -> serverB
+serverA <- serverB
+serverA -> alice
+serverA <- alice
+serverB -> bob
+serverB <- bob
+
+@enduml
