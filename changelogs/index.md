@@ -21,4 +21,16 @@
         <td>2020/12/04</td>
         <td><a href="logs/20201204.html">View changelog</a></td>
     </tr>
+    <tr>
+        <td>2020/12/07</td>
+        <td><a href="logs/20201207.html">View changelog</a></td>
+    </tr>
+    <tr>
+        <td>2020/12/08</td>
+        <td><a href="logs/20201208.html">View changelog</a></td>
+    </tr>
+    <tr>
+        <td>2020/12/09</td>
+        <td><a href="logs/20201209.html">View changelog</a></td>
+    </tr>
 </table>
