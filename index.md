@@ -126,12 +126,29 @@ for this project specifically.
 
 ##### Final technology stack
 
-- Frontend
-  - Electron
-  - Angular
-  - Angular Material
-  - SCSS
-- Backend  - NodeJS
+Taking all the above listed considerations into account we have come up with the following technology stack for our SOFA project:
+
+**Frontend**
+  - **Electron**  
+    We decided to go with Electron as it enables us to develop one solution which can be deployed across several platforms
+    including Windows, macOS and Linux. As Electron is not that difficult to include into a default setup we decided to
+    utilize the technology as this increases the target group significantly.
+  - **Angular**
+    We decided to go with Angular as major front-end framework. It enables us to handle data efficiently between several
+    components. Furthermore, it comes with useful features, for example to dynamically re-render views if the displayed data
+    changes.
+  - **Angular Material**  
+    Angular Material provides us with a comprehensive UI library. The library shippes with preconfigured elements such as
+    buttons, menus, navigation options, form fields and many more. 
+  - **SCSS**  
+    To complete our front-end stack we utilize SCSS. It provides additional funcationallity like variables, nested operations
+    and it makes it possible to dynamically render themes for Angular Material.
+
+**Backend**
+  - **Node JS**
+  
+  ***TODO explain backend technology stack***
+  
 
 ## Visual Design
 
