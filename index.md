@@ -110,11 +110,14 @@ frameworks, database systems or encryption algorithms. Those implementations ena
 the components do not have to be developed by ourselves. Last but not least are those already implemented solutions more secure
 as more people have their eyes on it and report and fix bugs.
 
-Important for using open-source software is, that it is properly documented and that is already known in the community.
-This helps with later bug fixings and solution findings.
-
 ##### Ecosystem
-***-- TODO --***
+As a result of the larger community of open-source technologies a better ecosystem will go along with it. Important for
+using open-source software is, that it is properly documented and that is already known in the community. This helps with
+later bug fixings and solution findings. The more people using a technology the more questions and answers will be available
+on sites like Stackoverflow or Github forums.
+
+Furthermore, there will be more thrid-party components and solutions available (for example via 
+[npm (node package manager)](https://www.npmjs.com/)).
 
 ##### Long-term trends and support
 ***-- TODO --***
