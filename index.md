@@ -120,7 +120,9 @@ Furthermore, there will be more thrid-party components and solutions available (
 [npm (node package manager)](https://www.npmjs.com/)).
 
 ##### Long-term trends and support
-***-- TODO --***
+Lastly, a detailed look on the long-term development of available technologies should be considered. As said before we
+should aim for mature technologies as they are more robust, reliable and most of the time also more secure which is crucial
+for this project specifically.
 
 ##### Final technology stack
 
@@ -129,8 +131,7 @@ Furthermore, there will be more thrid-party components and solutions available (
   - Angular
   - Angular Material
   - SCSS
-- Backend
-  - NodeJS
+- Backend  - NodeJS
 
 ## Visual Design
 
