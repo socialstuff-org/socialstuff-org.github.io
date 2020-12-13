@@ -69,7 +69,6 @@
  - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]
 
 ### Technology Stack
-***-- TODO description to be added --***
 
 Finding the right technology stack for a project is a major part of the overall process of realizing a project. 
 Multiple considerations should be taken into account which we will cover in this section. This section is a detailed 
@@ -80,7 +79,7 @@ of which technology stack we have gone with and why.
 - [Project requirements](#project-requirements)
 - [Open-source technologies](#open-source-technologies)
 - [Ecosystem](#ecosystem)
-- [Long-term trends and support]()
+- [Long-term trends and support](#long-term-trends-and-support)
 - [Final technology stack](#final-technology-stack)
 
 ##### Keep it simple and agile
@@ -105,7 +104,14 @@ focus was set to various technologies which have been around for quite some time
 vulnerabilities have been eliminated beforehand.
 
 ##### Open-source technologies
-***-- TODO --***
+Going with open-source technologies provides multiple benefits. First of all it enables to project team to focus on the
+business part of the application. Most of time, there is already a good open-source solution for general tasks like front-end
+frameworks, database systems or encryption algorithms. Those implementations enables the team to safe a lot of time as
+the components do not have to be developed by ourselves. Last but not least are those already implemented solutions more secure
+as more people have their eyes on it and report and fix bugs.
+
+Important for using open-source software is, that it is properly documented and that is already known in the community.
+This helps with later bug fixings and solution findings.
 
 ##### Ecosystem
 ***-- TODO --***
