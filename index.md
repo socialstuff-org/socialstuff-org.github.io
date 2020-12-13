@@ -67,7 +67,19 @@
 
 ### State machine diagrams
  - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]
- 
+
+### Technology Stack
+
+***-- TODO description to be added --***
+
+- Frontend
+  - Electron
+  - Angular
+  - Angular Material
+  - SCSS
+- Backend
+  - NodeJS
+
 ## Visual Design
 
 ***-- description to be added --***
