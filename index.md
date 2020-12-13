@@ -69,8 +69,51 @@
  - [Message](design/state-machine-diagrams/message.svg) [[Source](design/state-machine-diagrams/state-machine-message.uxf)]
 
 ### Technology Stack
-
 ***-- TODO description to be added --***
+
+Finding the right technology stack for a project is a major part of the overall process of realizing a project. 
+Multiple considerations should be taken into account which we will cover in this section. This section is a detailed 
+of which technology stack we have gone with and why.
+
+#### Factors taken into account
+- [Keep it simple and agile](#keep-it-simple-and-agile)
+- [Project requirements](#project-requirements)
+- [Open-source technologies](#open-source-technologies)
+- [Ecosystem](#ecosystem)
+- [Long-term trends and support]()
+- [Final technology stack](#final-technology-stack)
+
+##### Keep it simple and agile
+Finding a proper technology stack starts with deciding a fitting solution for the actual context in which the project
+should be realized. As the project will be developed in a short-term project of 5 months within software factory (SOFA)
+at Fontys Venlo we had to go with an agile as well as easy to start with technology. This enables all team members to
+get started quickly as well as to adapt accrodingly if something does not work out as planned.
+
+We started with a small concept and some sketches of how the product could look like. The actual set of features was not
+fixed at this point in time. We knew that the project scope would change during the project phase. That's why it is even
+more important to choose for an agile technology.
+
+##### Project requirements
+As the project is focussing on secure as well as fast communication between several users across the internet, we wanted
+to choose a technology stack that supports various system platforms as well as easy migration possibilities for a later
+stage of the project. This would allow us to adapt our developed parts to be translated to further platforms and devices.
+As more than 60% of all users are accessing the internet via mobile devices the focus should also lie on technologies which
+are fully supported by mobile platforms and devices.
+
+As security and privacy are our core principles we needed to take this into consideration for our technology stack. Our
+focus was set to various technologies which have been around for quite some time already so we can be sure that major security
+vulnerabilities have been eliminated beforehand.
+
+##### Open-source technologies
+***-- TODO --***
+
+##### Ecosystem
+***-- TODO --***
+
+##### Long-term trends and support
+***-- TODO --***
+
+##### Final technology stack
 
 - Frontend
   - Electron
