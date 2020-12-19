@@ -1,6 +1,8 @@
 #Settings
 - [Description](#description)
-- [Rest interfaces](#Rest interfaces)
+- [Rest interfaces](#Rest interfaces)  
+    - [Reporting settings](#Reporting settings)  
+    - [Security settings](#Security settings)
 - [Example use case execution](#Example Add Report reason)
 
 ## Description
@@ -10,12 +12,13 @@ As visible from the [Use Case diagram](#Use case diagram) the Settings service c
 #### Use Case Diagram
 ![UseCaseDiagram](../../usecases/UseCaseDiagramAdminPanel.png)
 
-###Rest interface
+###Rest interfaces
 The settings service provides the following rest endpoints:
+####Reporting settings
 ```
 GET: /settings/report-reason
 ```
-Returns all report reasons as a JSON array
+Returns all report reasons as a JSON array.  
 
 ```
 POST: /settings/report-reason
@@ -25,7 +28,7 @@ body:
     "max_report_violations": 5
 }
 ```
-adds a new report reason
+adds a new report reason.
 
 ```
 PUT: /settings/report-reason
@@ -36,20 +39,22 @@ body:
     "max_report_violations": 5
 }
 ```
-Edits an existing report reason
+Edits an existing report reason.
+
 
 ```
 DELETE: /settings/report-reason
 headers:
     - "id": 123
 ```
-Deletes a report reason with an id that is provided as a header
+Deletes a report reason with an id that is provided as a header.
 
-
+####Security settings
 ```
 GET: /settings/security
 ```
-returns the current security settings
+returns the current security settings.
+
 ```
 PUT: /settings/security
 body:
@@ -75,6 +80,7 @@ body:
 }
 ```
 Edits the security settings. The new settings are provided in body.
+
 ##Example Add Report reason
 ![Sequence Diagram](SequenceDiagram_AddReportReason.svg)
 The sequence diagram shows an example of the communication of the settings service with the aforementioned services.
