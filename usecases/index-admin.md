@@ -1,7 +1,7 @@
 ### List of admin use cases
 ![Use case diagram](UseCaseDiagramAdminPanel.png)
-Use case diagram
-####Settings service
+Use case diagram 
+#### Settings service
 - [change settings](admin/change-settings.md)
 - [add report reason](admin/add-report-reason.md)
 - [ban user](admin/ban-user.md)
@@ -13,7 +13,7 @@ Use case diagram
 - [get all report reasons](admin/get-all-report-reasons.md)
 - [remove invite code](admin/remove-invite-code.md)
 
-####Reporting service
+#### Reporting service
 - [delete report reason](admin/delete-report-reason.md)
 - [remove report reason](admin/remove-report-reason.md)
 - [select all report reasons](admin/select-all-report-reasons.md)
@@ -22,7 +22,7 @@ Use case diagram
 - [require e-mail confirmation](admin/require-email-confirmation.md)
 - [require 2FA](admin/require-2fa.md)
 
-####Identity
+#### Identity
 - [add invite code](admin/add-invite-code.md)
 - [delete invite code](admin/delete-invite-code.md)
 - [select all invite codes](admin/select-all-invite-codes.md)
