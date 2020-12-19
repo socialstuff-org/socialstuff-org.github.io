@@ -1,5 +1,6 @@
 ### List of admin use cases
-
+![Use case diagram](UseCaseDiagramAdminPanel.png)
+Use case diagram
 ####Settings service
 - [change settings](admin/change-settings.md)
 - [add report reason](admin/add-report-reason.md)
