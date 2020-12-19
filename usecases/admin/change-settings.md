@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            lorem pisum
+            Change settings
         </td>
     </tr>
     <tr>
@@ -12,7 +12,15 @@
             <strong>Actor</strong>
         </td>
         <td>
-            lorem pisum
+            Admin
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Service</strong>
+        </td>
+        <td>
+            <a href="../../services/backend/settings.md">Settings Service</a>
         </td>
     </tr>
     <tr>
@@ -20,7 +28,7 @@
             <strong>Description</strong>            
         </td>
         <td>
-            lorem pisum
+            This use case describes the act of changing the security settings
         </td>
     </tr>
     <tr>
@@ -28,7 +36,7 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            lorem pisum
+            NA
         </td>
     </tr>
     <tr>
@@ -38,16 +46,16 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The actor presents the new security settings
                 </li>
                 <li>
-                    Item 2
+                    The system verifies the security settings
                 </li>
                 <li>
-                    Item 3
+                    The system enters the new security settings
                 </li>
                 <li>
-                    Item 4
+                    The system notifies the actor about the successful insertion of the settings
                 </li>
             </ul>
         </td>
@@ -57,7 +65,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            lorem pisum
+            The security settings have been updated
         </td>
     </tr>
     <tr>
@@ -67,10 +75,10 @@
         <td>
             <ul>
                 <li>
-                    Item 1
+                    The settings contain an invalid attribute
                 </li>
                 <li>
-                    Item 2
+                    The system notifies the user about the wrong attribute 
                 </li>
             </ul>
         </td>

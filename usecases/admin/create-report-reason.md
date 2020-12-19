@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            Ban user
+            Create report reason
         </td>
     </tr>
     <tr>
@@ -24,12 +24,11 @@
             </td>
         </tr>
     <tr>
-    <tr>
         <td>
             <strong>Description</strong>
         </td>
         <td>
-            This use case describes the procedure of banning a user/removing their access to the system.
+            This use case describes the procedure of creating a report reason
         </td>
     </tr>
     <tr>
@@ -37,22 +36,23 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            Actor is logged in: <a href="./login.md">login</a>
+            Actor is an admin
         </td>
     </tr>
+    <tr>
         <td>
             <strong>Scenario</strong>
         </td>
         <td>
             <ol>
                 <li>
-                    Actor views user and decides to block a user.
+                   The user decides to add a report reason
                 </li>
                 <li>
-                    System <a href="./blockUser.md">blocks the user</a>.
+                    The system <a href="add-report-reason.md">adds a report reason</a>.
                 </li>
                 <li>
-                    System applies the login ban and informs the actor about the result.
+                    The system notifies the client that the reason has been added.
                 </li>
             </ol>
         </td>
@@ -62,7 +62,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            The user to ban can not login into the system anymore and all current logins will be terminated.
+            A report reason has been added
         </td>
     </tr>
     <tr>
@@ -70,14 +70,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    1. System message: "unknown user"
-                </li>
-                <li>
-                    1.1 Use case ends here
-                </li>
-            </ul>
+            NA          
         </td>
     </tr>
 </table>
