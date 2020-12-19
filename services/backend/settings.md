@@ -8,8 +8,8 @@
 ## Description
 The Settings service provides an interface to the admin panel frontend and carries out the settings to the other services
 As visible from the [Use Case diagram](#Use case diagram) the Settings service carries out a few tasks by itself whilst forwarding certain other request to the [identity service](identity-service.md) and the [reporting service](reporting.md).
-
-#### Use Case Diagram
+The use cases and their descriptions can be found [here](../../usecases/index-admin.md).
+##### Use Case Diagram
 ![UseCaseDiagram](../../usecases/UseCaseDiagramAdminPanel.png)
 
 ###Rest interfaces
