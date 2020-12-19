@@ -11,6 +11,7 @@ As visible from the [Use Case diagram](#Use case diagram) the Settings service c
 ![UseCaseDiagram](../../usecases/UseCaseDiagramAdminPanel.png)
 
 ###Rest interface
+The settings service provides the following rest endpoints:
 ```
 GET: /settings/report-reason
 ```
