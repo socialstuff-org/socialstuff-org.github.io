@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            Ban user
+            Remove invite code
         </td>
     </tr>
     <tr>
@@ -16,20 +16,20 @@
         </td>
     </tr>
     <tr>
-            <td>
-                <strong>Service</strong>
-            </td>
-            <td>
-                <a href="../../services/backend/settings.md">Settings Service</a>
-            </td>
-        </tr>
+        <td>
+            <strong>Service</strong>
+        </td>
+        <td>
+            <a href="../../services/backend/settings.md">Settings Service</a>
+        </td>
+    </tr>
     <tr>
     <tr>
         <td>
             <strong>Description</strong>
         </td>
         <td>
-            This use case describes the procedure of banning a user/removing their access to the system.
+            This use case describes the process of removing an invite code
         </td>
     </tr>
     <tr>
@@ -37,22 +37,26 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            Actor is logged in: <a href="./login.md">login</a>
+            the actor is an admin
         </td>
     </tr>
+    <tr>
         <td>
             <strong>Scenario</strong>
         </td>
         <td>
             <ol>
                 <li>
-                    Actor views user and decides to block a user.
+                    The actor wishes to delete all report reasons.
                 </li>
                 <li>
-                    System <a href="./blockUser.md">blocks the user</a>.
+                    The actor selects the invite code which is to be deleted.
                 </li>
                 <li>
-                    System applies the login ban and informs the actor about the result.
+                    The system <a href="delete-invite-code.md">deletes the invite code</a>.
+                </li>
+                <li>
+                    The system lets the actor know that the code has been deleted.
                 </li>
             </ol>
         </td>
@@ -62,7 +66,7 @@
             <strong>Result</strong>
         </td>
         <td>
-            The user to ban can not login into the system anymore and all current logins will be terminated.
+            An invite code has been deleted  
         </td>
     </tr>
     <tr>
@@ -70,14 +74,7 @@
             <strong>Exceptions</strong>
         </td>
         <td>
-            <ul>
-                <li>
-                    1. System message: "unknown user"
-                </li>
-                <li>
-                    1.1 Use case ends here
-                </li>
-            </ul>
+            NA
         </td>
     </tr>
 </table>

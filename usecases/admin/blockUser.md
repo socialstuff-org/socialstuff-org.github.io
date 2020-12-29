@@ -4,7 +4,7 @@
             <strong>Name</strong>
         </td>
         <td>
-            Ban user
+            Block user
         </td>
     </tr>
     <tr>
@@ -20,10 +20,9 @@
                 <strong>Service</strong>
             </td>
             <td>
-                <a href="../../services/backend/settings.md">Settings Service</a>
+                <a href="../../services/backend/reporting.md">Reporting Service</a>
             </td>
         </tr>
-    <tr>
     <tr>
         <td>
             <strong>Description</strong>
@@ -37,22 +36,23 @@
             <strong>Pre-condition</strong>
         </td>
         <td>
-            Actor is logged in: <a href="./login.md">login</a>
+            Actor is an admin
         </td>
     </tr>
+    <tr>
         <td>
             <strong>Scenario</strong>
         </td>
         <td>
             <ol>
                 <li>
-                    Actor views user and decides to block a user.
+                   The system receives the task to block a user
                 </li>
                 <li>
-                    System <a href="./blockUser.md">blocks the user</a>.
+                    The system marks a user as marked.
                 </li>
                 <li>
-                    System applies the login ban and informs the actor about the result.
+                    The system notifies the client that the block has been executed.
                 </li>
             </ol>
         </td>
