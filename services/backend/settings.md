@@ -1,4 +1,4 @@
-#Settings
+#Settings Service
 - [Description](#description)
 - [Rest interfaces](#Rest interfaces)  
     - [Reporting settings](#Reporting settings)  
