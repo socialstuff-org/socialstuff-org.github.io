@@ -13,8 +13,10 @@ The use cases and their descriptions can be found [here](../../usecases/index-ad
 ![UseCaseDiagram](../../usecases/UseCaseDiagramAdminPanel.png)
 
 ###Rest interfaces
+
 The settings service provides the following rest endpoints:
 ####Reporting settings
+
 ```
 GET: /settings/report-reason
 ```
